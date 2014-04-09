@@ -1,0 +1,3 @@
+guestroot/etc/sysconfig/network-scripts/ifcfg-vboxbr0 /etc/sysconfig/network-scripts/ifcfg-vboxbr0
+guestroot/etc/sysconfig/iptables                      /etc/sysconfig/iptables
+guestroot/etc/sysctl.conf                             /etc/sysctl.conf
