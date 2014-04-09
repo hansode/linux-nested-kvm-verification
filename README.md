@@ -4,8 +4,10 @@ Linux Nested KVM Verification
 System Requirements
 -------------------
 
-+ Fedora 20
-+ CentOS 6.5
++ Bere Metal
+  + Fedora 20
++ KVM Guests
+  + CentOS 6.5
 
 System Configuration Diagram
 ----------------------------
